@@ -110,9 +110,9 @@ Figure 6. description for Figure 6
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@tamu.edu
+Kennedy Patterson - kennedyp@tamu.edu
 
-Personal Website: [https://website.com](https://website.com)
+Personal Website: [https://kennedpatterson.artstation.com/](https://kennedpatterson.artstation.com/)
 
 
 
