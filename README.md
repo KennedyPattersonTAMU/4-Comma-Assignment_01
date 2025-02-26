@@ -99,11 +99,13 @@ Your Conclusion here: 50 words here
 
 <!-- Bibliography -->
 ## Bibliography 
-[1] ABELL, CATHARINE. “Art: What It Is and Why It Matters.” Philosophy and Phenomenological Research, vol. 85, no. 3, 21 July 2011, pp. 671–691, https://doi.org/10.1111/j.1933-1592.2011.00498.x. Accessed 28 Feb. 2019.
+[1] Abell, Catharine. “Art: What It Is and Why It Matters.” Philosophy and Phenomenological Research, vol. 85, no. 3, 21 July 2011, pp. 671–691, https://doi.org/10.1111/j.1933-1592.2011.00498.x. Accessed 28 Feb. 2019.
 
 [2] Marcus, Gary, and Reid Southen. “Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum.” Spectrum.ieee.org, IEEE, 6 Jan. 2024, spectrum.ieee.org/midjourney-copyright. Accessed 25 Feb. 2025.
 
 [3] Tweed, Laurel. “AI’s Role in Ethical Decision-Making: Fostering Fairness in Critical Systems with Explainable AI (XAI).” IEEE Computer Society, IEEE, 31 Jan. 2025, www.computer.org/publications/tech-news/community-voices/explainable-ai. Accessed 25 Feb. 2025. 
+
+[4] Avey, Chester. “Ethical Pros and Cons of AI Image Generation.” IEEE Computer Society, IEEE, 27 Dec. 2023, www.computer.org/publications/tech-news/community-voices/ethics-of-ai-image-generation. Accessed 25 Feb. 2025.
 
 
 
