@@ -81,7 +81,7 @@ Figure 3. A collection of the prompts (black text) and the images they generated
 
 [![4-comma][images-fig4]](https://example.com)
 
-Figure 4. description for Figure 5
+Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
