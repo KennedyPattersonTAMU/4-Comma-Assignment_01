@@ -99,9 +99,9 @@ Figure 6. description for Figure 6
 
 <!-- Bibliography -->
 ## Bibliography 
-[1] Galanter, Philip. "Generative art theory." A companion to digital art (2016): 146-180. *Copy of MLA format
+[1] ABELL, CATHARINE. “Art: What It Is and Why It Matters.” Philosophy and Phenomenological Research, vol. 85, no. 3, 21 July 2011, pp. 671–691, https://doi.org/10.1111/j.1933-1592.2011.00498.x. Accessed 28 Feb. 2019.
 
-[2] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024.
+[2] Marcus, Gary, and Reid Southen. “Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum.” Spectrum.ieee.org, IEEE, 6 Jan. 2024, spectrum.ieee.org/midjourney-copyright. Accessed 25 Feb. 2025.
 
 [3] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024. 
 
