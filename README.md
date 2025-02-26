@@ -37,7 +37,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!
+*Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate.* *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!*
 
 <!-- Abstract -->
 ## Abstract
@@ -55,7 +55,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 [![4-comma][images-fig2]](https://example.com)
 
-Figure 2. Related works in this domain. 
+*Figure 2. Related works in this domain.* 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -74,27 +74,28 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Methodology
 [![4-comma][images-fig3]](https://example.com)
 
-Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.
+*Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
 
 Your Methodology and Related Works here: 200 words here.
 
 [![4-comma][images-fig4]](https://example.com)
 
-Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.
+*Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
 
 [![4-comma][images-fig5]](https://example.com)
 
-Figure 5. description for Figure 5
+*Figure 5. description for Figure 5*
 
 ## Conclusion
 Your Conclusion here: 50 words here
 
 [![4-comma][images-fig6]](https://example.com)
 
-Figure 6. description for Figure 6
+*Figure 6. description for Figure 6*
+
 
 <!-- Bibliography -->
 ## Bibliography 
