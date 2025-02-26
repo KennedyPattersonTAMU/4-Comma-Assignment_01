@@ -46,13 +46,6 @@ Your abstract here: 50 words here.
 Example of how to make a list:
 There are many great README templates available on GitHub.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
 [![4-comma][images-fig2]](https://example.com)
 
 *Figure 2. Related works in this domain.* 
@@ -64,12 +57,6 @@ Your Introduction and Related Works here: 200 words here.
 
 Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
 Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
-
-How to use subsection:
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 ## Methodology
 [![4-comma][images-fig3]](https://example.com)
