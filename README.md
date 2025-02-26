@@ -77,7 +77,7 @@ Your Methodology and Related Works here: 200 words here.
 
 [![4-comma][images-fig3]](https://example.com)
 
-Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
+Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.
 
 [![4-comma][images-fig4]](https://example.com)
 
@@ -103,7 +103,7 @@ Figure 6. description for Figure 6
 
 [2] Marcus, Gary, and Reid Southen. “Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum.” Spectrum.ieee.org, IEEE, 6 Jan. 2024, spectrum.ieee.org/midjourney-copyright. Accessed 25 Feb. 2025.
 
-[3] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024. 
+[3] Tweed, Laurel. “AI’s Role in Ethical Decision-Making: Fostering Fairness in Critical Systems with Explainable AI (XAI).” IEEE Computer Society, IEEE, 31 Jan. 2025, www.computer.org/publications/tech-news/community-voices/explainable-ai. Accessed 25 Feb. 2025. 
 
 
 
