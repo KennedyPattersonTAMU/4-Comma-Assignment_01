@@ -72,12 +72,11 @@ How to use subsection:
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 ## Methodology
-
-Your Methodology and Related Works here: 200 words here.
-
 [![4-comma][images-fig3]](https://example.com)
 
 Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.
+
+Your Methodology and Related Works here: 200 words here.
 
 [![4-comma][images-fig4]](https://example.com)
 
