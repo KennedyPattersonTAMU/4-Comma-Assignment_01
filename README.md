@@ -21,7 +21,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: My Title Here</h3>
+  <h3 align="center">4-Comma: Ethics in AI Art</h3>
 
   <p align="center">
     Short two sentence project desctiption here!
@@ -29,7 +29,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Your Name</a>
+    <a href="https://website.com">Kennedy Patterson</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
