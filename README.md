@@ -41,12 +41,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 <!-- Abstract -->
 ## Abstract
-Your abstract here: 50 words here.
-
-Example of how to make a list:
-There are many great README templates available on GitHub.
-
-
+This project is a critique of attitudes that value art only as a method of making money and disregard the work and experience needed to create notable art. I highlight the ways that AI steals art through its training data and ignores ownership by recreating copyrighted characters through prompt engineering.
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
