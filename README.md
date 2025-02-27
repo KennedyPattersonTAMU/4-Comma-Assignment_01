@@ -46,17 +46,20 @@ Your abstract here: 50 words here.
 Example of how to make a list:
 There are many great README templates available on GitHub.
 
-[![4-comma][images-fig2]](https://example.com)
 
-*Figure 2. Related works in this domain.* 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
+
+[![4-comma][images-fig2]](https://example.com)
+
+*Figure 2. Related works in this domain.* 
 
 Your Introduction and Related Works here: 200 words here.
 
 Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
 Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
+
 
 ## Methodology
 [![4-comma][images-fig3]](https://example.com)
@@ -72,17 +75,8 @@ Your Methodology and Related Works here: 200 words here.
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
 
-[![4-comma][images-fig5]](https://example.com)
-
-*Figure 5. description for Figure 5*
-
 ## Conclusion
 Your Conclusion here: 50 words here
-
-[![4-comma][images-fig6]](https://example.com)
-
-*Figure 6. description for Figure 6*
-
 
 <!-- Bibliography -->
 ## Bibliography 
