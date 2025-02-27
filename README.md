@@ -48,7 +48,7 @@ This project is a critique of attitudes that value art only as a method of makin
 
 [![4-comma][images-fig2]](https://example.com)
 
-*Figure 2. Related works in this domain.* 
+*Figure 2. Examples of notable stills from movies and games recreated in Midjourney by Reid Southen* 
 
 Your Introduction and Related Works here: 200 words here.
 
