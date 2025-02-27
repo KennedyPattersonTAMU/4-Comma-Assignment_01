@@ -50,10 +50,11 @@ This project is a critique of attitudes that value art only as a method of makin
 
 *Figure 2. Examples of notable stills from movies and games recreated in Midjourney by Reid Southen* 
 
-Your Introduction and Related Works here: 200 words here.
+One of the largest ethical issues plaguing the new AI industry is the means by which many models acquired their training data [4]. The data is often scrapped from numerous sources across the internet without credit and used to train AI Image generation models. Those models then will often regurgitate those same stolen images in their outputs, sometimes without the user even knowing the generated image could be plagiarized and placing both the AI companies and their users at legal risk [2].
 
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
+There have been recent efforts to make the generation methods of machine learning models more transparent through techniques such as Explainable AI (XAI) which could be a step towards solving these ethical issues [3]. But these efforts are likely to be ignored by large tech companies due to the effort and cost associated with ethically retraining such large models.
+
+The greed inherent in decisions such as these, shirking ethics in lieu of profit and disregarding laws that  protect artists, inspired my yonkoma. The panels follow the growth of an artist from youth to the peak of their career. Their steady growth is abruptly halted in the 3rd cell as they are captured, and all the creativity is wrung out of them in the form of plagiarized AI images. 
 
 
 ## Methodology
