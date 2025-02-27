@@ -73,8 +73,7 @@ However, that warning was just a warning, the training data DALLE-3 was trained 
 *Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
 
 ## Result and Future Work
-Your Result and Future Work here: 100 words here.
-
+I found that some characters were harder to recreate than others. It only took one prompt to generate the Incredible Hulk (see Figure 4.) but it took 14 prompts and re-wordings to get something poorly approximating Mickey Mouse before I gave up on the effort to generate the real deal. It seems that certain IPs are better protected than others. Whether due to repeated attempts by users to generate them or the litigiousness of the owners, one can only speculate. I would like to test the limits of this more with lesser-known properties in the future.
 ## Conclusion
 Your Conclusion here: 50 words here
 
