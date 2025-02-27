@@ -37,7 +37,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 [![4-comma][images-fig1]](https://example.com)
 
-*Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate.* *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!*
+*Figure 1. My 4-comma*
 
 <!-- Abstract -->
 ## Abstract
