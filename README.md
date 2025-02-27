@@ -66,7 +66,7 @@ I started by researching prominent copyrighted characters that are very recogniz
 
 Initially, I was met with a statement that reminded the user that the character in question was under copyright protection and as such I would not be able to generate the character's exact likeness, only something similar. This is very different from the results of similar prompts only a year ago as investigated by Gary and Southen [2] (see Figure 2) which had no such warning appear and easily rendered the offending images. 
 
-However that warning was just a warning, the training data DALLE-3 was trained on is still within its code and so rather than stop my efforts it only slowed them down. I found that after several iterations on prompts, one could circumvent these protections if you either slowly added more details or were hyper-specific. It couldn't make a brown dog with a blue collar and black spots that solves mysteries with 4 teens but it could make a Great Dane, with brown fur, elongated proportions, and a 70's van.
+However, that warning was just a warning, the training data DALLE-3 was trained on is still within its code, and so rather than stop my efforts it only slowed them down. I found that after several iterations on prompts, one could circumvent these protections if you either slowly added more details or were hyper-specific. It couldn't make a brown dog with a blue collar and black spots that solves mysteries with 4 teens but it could make a Great Dane, with brown fur, elongated proportions, and a 70's van.
 
 [![4-comma][images-fig4]](https://example.com)
 
