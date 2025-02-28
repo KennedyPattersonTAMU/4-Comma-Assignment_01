@@ -24,7 +24,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <h3 align="center">4-Comma: Squeezing Artists</h3>
 
   <p align="center">
-    Short two sentence project desctiption here!
+    A four panel comic about learning to value art. A report about plagiarism and AI.
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
