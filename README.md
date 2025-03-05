@@ -26,7 +26,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <p align="center">
     This project is a four panel comic critiquing the view of art as a comodity instead of as a process and expression of creativity. Following that is a report about plagiarism in AI and the ways image generation models are both trained on and continue to produce stolen art.
     <br />
-    <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/KennedyPattersonTAMU/4-Comma-Assignment_01/blob/main/PDF/Artists_Squeezed_Yonkoma.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://website.com">Kennedy Patterson</a>
