@@ -24,7 +24,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <h3 align="center">4-Comma: Squeezing Artists</h3>
 
   <p align="center">
-    A four panel comic about learning to value art. A report about plagiarism and AI.
+    This project is a four panel comic critiquing the view of art as a comodity instead of as a process and expression of creativity. Following that is a report about plagiarism in AI and the ways image generation models are both trained on and continue to produce stolen art.
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
@@ -37,7 +37,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 [![4-comma][images-fig1]](https://example.com)
 
-*Figure 1. My 4-comma*
+*Figure 1. My yonkoma comic. The story involves a girl growing into an artist starting from a young child observing the world to an accomplished adult artist. The comic then shows her creativity being wrung out of her by a corporation symbolized by the Mickey Mouse gloved hands. The comic is made with Acryllic paint and photocopied poorly into a digital medium except for the copyrighted AI generated images wrung out of the artist. There is a deliberate dichotomy between the traditional art and its muted color palette and differing panel sizes and the bright, oversaturated AI images that starkly contrast from the rest of the comic *
 
 <!-- Abstract -->
 ## Abstract
