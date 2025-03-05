@@ -37,7 +37,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 [![4-comma][images-fig1]](https://example.com)
 
-*Figure 1. My yonkoma comic. The story involves a girl growing into an artist starting from a young child observing the world to an accomplished adult artist. The comic then shows her creativity being wrung out of her by a corporation symbolized by the Mickey Mouse gloved hands. The comic is made with Acryllic paint and photocopied poorly into a digital medium except for the copyrighted AI generated images wrung out of the artist. There is a deliberate dichotomy between the traditional art and its muted color palette and differing panel sizes and the bright, oversaturated AI images that starkly contrast from the rest of the comic *
+*Figure 1. My yonkoma comic. The story involves a girl growing into an artist starting from a young child observing the world to an accomplished adult artist. The comic then shows her creativity being wrung out of her by a corporation symbolized by the Mickey Mouse gloved hands. The comic is made with Acryllic paint and photocopied poorly into a digital medium except for the copyrighted AI generated images wrung out of the artist. There is a deliberate dichotomy between the traditional art and its muted color palette and differing panel sizes and the bright, oversaturated AI images that starkly contrast from the rest of the comic*
 
 <!-- Abstract -->
 ## Abstract
